@@ -1,4 +1,4 @@
-# frozen_string_literal: true
+bill# frozen_string_literal: true
 
 require "json"
 
